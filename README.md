@@ -83,8 +83,6 @@ echo 'INSERT-RUN-COMMAND-HERE'
 
 File-service uses the {__test_framework__} test framework. Run the test suite with:
 
-echo 'INSERT-TEST-COMMAND-HERE'
-
 ---
 
 <div align="left"><a href="#top">⬆ Return</a></div>
