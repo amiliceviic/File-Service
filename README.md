@@ -7,7 +7,6 @@
 
 <em>Empowering Seamless, Reliable File Sharing Everywhere</em>
 
-<!-- BADGES -->
 <img src="https://img.shields.io/github/last-commit/amiliceviic/File-Service?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 <img src="https://img.shields.io/github/languages/top/amiliceviic/File-Service?style=flat&color=0080ff" alt="repo-top-language">
 <img src="https://img.shields.io/github/languages/count/amiliceviic/File-Service?style=flat&color=0080ff" alt="repo-language-count">
