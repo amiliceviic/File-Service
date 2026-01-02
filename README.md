@@ -2,7 +2,6 @@
 
 <div align="center">
 
-
 # FILE-SERVICE
 
 <em>Empowering Seamless, Reliable File Sharing Everywhere</em>
